@@ -21,3 +21,9 @@ ps. please, don't improve the model, you don't need to make a good one, simply d
 DELIVERABLES: a zip file delivered in here (just one for the whole group)!
 
 The zip file should include all codes (Python codes used in the presentation) and all datasets used the presentation ;-)
+
+
+
+####This project on Github 
+1. Complete task in the appropriate branch 
+2. When finished write the dataset to be used in the apprpriate branch
